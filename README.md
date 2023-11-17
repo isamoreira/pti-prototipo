@@ -101,3 +101,10 @@ Breve descrição do protótipo de cadastro de alunos.
 1.Incluímos os diagramas desenvolvidos na fase 1 do projeto no diretório [diagramas](diagramas/).
 
 2.Incluimos a documentação do prótipo agora desenvolvido no diretório [documentação](documentacao/)
+
+## Contribuidores
+
+- [@isamoreira](https://github.com/isamoreira)
+- [@contribuidor2](https://github.com/contribuidor2)
+- [@contribuidor3](https://github.com/contribuidor3)
+
