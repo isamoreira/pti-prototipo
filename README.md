@@ -99,4 +99,5 @@ Breve descrição do protótipo de cadastro de alunos.
 ## Diagramas e Documentação
 
 1.Incluímos os diagramas desenvolvidos na fase 1 do projeto no diretório [diagramas](diagramas/).
+
 2.Incluimos a documentação do prótipo agora desenvolvido no diretório [documentação](documentacao/)
