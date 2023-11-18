@@ -107,5 +107,6 @@ Breve descrição do protótipo de cadastro de alunos.
 - [@isamoreira](https://github.com/isamoreira)
 - [@adsdani](https://github.com/AdsDani)
 - [@Gabreel-araujo](https://github.com/Gabreel-Araujo)
+- [@ivanmslima](https://github.com/ivanmslima)
 - [@contribuidor3](https://github.com/contribuidor3)
 
