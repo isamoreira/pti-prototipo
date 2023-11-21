@@ -72,5 +72,5 @@ Este repositório contém a implementação da segunda fase do Projeto Integrado
 - [@adsdani](https://github.com/AdsDani)
 - [@Gabreel-araujo](https://github.com/Gabreel-Araujo)
 - [@ivanmslima](https://github.com/ivanmslima)
-- [@contribuidor3](https://github.com/contribuidor3)
+- [@RafaelaMouraa](https://github.com/RafaelaMouraa)
 
