@@ -66,6 +66,10 @@ Este repositório contém a implementação da segunda fase do Projeto Integrado
 
 2.Incluimos a documentação do prótipo agora desenvolvido no diretório [documentação](https://github.com/isamoreira/pti-prototipo/blob/main/Prot%C3%B3tipo%20da%20Interface%20do%20Sistema_%20Sistema%20de%20Gest%C3%A3o%20Educacional.pdf)
 
+## Acesso ao projeto (FIGMA)
+
+[Link para o Figma](https://www.figma.com/file/HVeUITkjZv6rP4qwBOYXf6/Untitled?type=design&node-id=1%3A3&mode=design&t=N2RutrUj25CuysBL-1)
+
 ## Contribuidores
 
 - [@isamoreira](https://github.com/isamoreira)
