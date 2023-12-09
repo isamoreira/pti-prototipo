@@ -77,4 +77,6 @@ Este repositório contém a implementação da segunda fase do Projeto Integrado
 - [@Gabreel-araujo](https://github.com/Gabreel-Araujo)
 - [@ivanmslima](https://github.com/ivanmslima)
 - [@RafaelaMouraa](https://github.com/RafaelaMouraa)
+- [@patrickmoraaes](https://github.com/patrickmoraaes)
+
 
